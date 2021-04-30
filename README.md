@@ -8,8 +8,6 @@
 
 ## :fire: How to use
 
-  - install the **[Node.js](https://nodejs.org/en/)** on your machine
-
 1. clone this repository.
 
 ```sh
@@ -39,5 +37,5 @@
 
 
 <h4 align="center">
-    written by <a href="https://www.linkedin.com/in/antonio-carlos-44b106129/" target="_blank">Antonio Carlos</a>
+    written by <a href="https://www.linkedin.com/in/antonio-carlos-44b106129/" target="_blank">Antonio Carlos ❤ </a>
 </h4>
