@@ -34,7 +34,7 @@
 
 # :heavy_check_mark: preview page-home
 <h1 align="center">
-    <img alt="Web" src=".github/Capa.png" width="900px">
+    <img alt="Web" src=".github/Capa.svg" width="900px">
 </h1>
 
 
